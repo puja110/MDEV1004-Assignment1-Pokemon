@@ -1,6 +1,6 @@
 # MDEV1004-Assignment1-Pokemon
 
-Group Assignment implementing RestAPI functionality, Internal Documentation, Version Control, Cloud Deployment, and Video Presentation.
+Pokemon listing with detailed information using HTML, CSS, JavaScript, RestAPI functionality, Internal Documentation, Version Control, and Cloud Deployment.
 
 ## Folder Structure \n
 
